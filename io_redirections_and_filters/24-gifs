@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type f basename sort -S -printf \n
